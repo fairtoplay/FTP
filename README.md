@@ -1,2 +1,2 @@
-# FTP
+# Fairtoplay
 This is using for testnet in Teanetwork
